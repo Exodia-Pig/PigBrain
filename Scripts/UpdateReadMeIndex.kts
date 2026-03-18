@@ -16,8 +16,9 @@ fun generateReadme() {
 fun generateHeaderMessage(content: StringBuilder) {
     content.appendWithLineBreak("# PigsBrain")
     content.appendWithLineBreak("🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗\n")
-    content.appendWithLineBreak("블로그가 글을 짤막하게 쓰기는 안좋은거 같아서 파일 형태로 사용하는 지식 저장소")
-    content.appendWithLineBreak("\n🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗")
+    content.appendWithLineBreak("블로그가 글을 짤막하게 쓰기는 안좋은거 같아서 파일 형태로 사용하는 지식 저장소\n")
+    content.appendWithLineBreak("[구 블로그 주소](https://mccoy-devloper.tistory.com/) 한번쓰면 수정을 안해서 똥글 투성이\n")
+    content.appendWithLineBreak("🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗🚨🐗")
     insertSectionDivider(content)
 }
 
