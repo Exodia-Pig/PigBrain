@@ -350,3 +350,10 @@ PredictiveBackHandler { progress ->
 > 애니메이션 없이 뒤로가기 이벤트만 가로채면 `BackHandler`,
 > 스와이프 진행도에 따라 애니메이션 연동이 필요하면 `PredictiveBackHandler`
 
+# 😎결론
+백버튼 관련 구글 제공문서는 사실상 [콜백 권장사항](https://developer.android.com/guide/navigation/custom-back/predictive-back-gesture?hl=ko#best-practices) 하위항목이 제일 중요하며(사실상 그부분만 읽어도됨)  
+프로젝트 환경, 개발 방식, 기획적 결정에 따라서 취급하는 방식이 달라질것 같다 기본원칙(predictive-back 핸들링)숙지하고 다루지만 세부적인 구현은 팀내 회의를 거쳐보는 방향이 좋을것 같다.
+
+해당 글만으로는 Android X API를 전부 정복한건 아니니 실질적으로 생명주기 로그도 찍어보고, 내부 코드도 까보고 해야할것이다.  
+ex) predictive-back 애니메이션이 발생했을떄 하단에 깔리는 액티비티,프래그먼트의 생명주기는 타는지 안타는지 탄다면 어디까지 타는지?  
+이런거 찍어본 실습 문서로 2탄을 작성해야 할 것 같다
