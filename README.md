@@ -20,6 +20,7 @@
 - [data_vs_notification.md](https://github.com/Exodia-Pig/PigBrain/tree/main/docs/Android/FCM/data_vs_notification.md)
 ### 기본내용
 - [flag,launch_mode,task.md](https://github.com/Exodia-Pig/PigBrain/tree/main/docs/Android/기본내용/flag,launch_mode,task.md)
+- [predictive back(뒤로 탐색 예측).md](https://github.com/Exodia-Pig/PigBrain/tree/main/docs/Android/기본내용/predictive back(뒤로 탐색 예측).md)
 
 
 
