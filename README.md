@@ -21,6 +21,8 @@
 ### 기본내용
 - [flag,launch_mode,task.md](https://github.com/Exodia-Pig/PigBrain/tree/main/docs/Android/기본내용/flag,launch_mode,task.md)
 - [predictive_back(뒤로_탐색_예측).md](https://github.com/Exodia-Pig/PigBrain/tree/main/docs/Android/기본내용/predictive_back(뒤로_탐색_예측).md)
+### 테스트
+- [LMK_상황재현_테스트.md](https://github.com/Exodia-Pig/PigBrain/tree/main/docs/Android/테스트/LMK_상황재현_테스트.md)
 
 
 
