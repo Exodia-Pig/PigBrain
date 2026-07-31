@@ -12,6 +12,8 @@
 ## Android
 ### FCM
 - [data_vs_notification.md](https://github.com/Exodia-Pig/PigBrain/tree/main/docs/Android/FCM/data_vs_notification.md)
+### gradle(build)
+- [gradle_빌드_최적화_일반론.md](https://github.com/Exodia-Pig/PigBrain/tree/main/docs/Android/gradle(build)/gradle_빌드_최적화_일반론.md)
 ### 기본내용
 - [flag,launch_mode,task.md](https://github.com/Exodia-Pig/PigBrain/tree/main/docs/Android/기본내용/flag,launch_mode,task.md)
 - [matchParent_대신_0dp_사용해야하는_이유.md](https://github.com/Exodia-Pig/PigBrain/tree/main/docs/Android/기본내용/matchParent_대신_0dp_사용해야하는_이유.md)
